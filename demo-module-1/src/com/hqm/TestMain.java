@@ -5,5 +5,7 @@ public class TestMain {
         System.out.println("hello git");
 
         System.out.println("hello main");
+
+        System.out.println("hello test");
     }
 }
